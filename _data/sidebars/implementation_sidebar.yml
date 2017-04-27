@@ -11,20 +11,20 @@ entries:
     folderitems:
 
     - title: Overview
-      url: /implementation/overview.html
+      url: /implementation_overview.html
       output: web
       type: homepage
 
     - title: Structure
-      url: /implementation/structure.html
+      url: /implementation_structure.html
       output: web
 
     - title: Component1
-      url: /implementation/component1.html
+      url: /implementation_component1.html
       output: web
 
     - title: Component2
-      url: /implementation/component2.html
+      url: /implementation_component2.html
       output: web
 
 
