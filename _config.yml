@@ -3,13 +3,13 @@ repository: aw32/testdocs
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Superpage
+topnav_title: arlimb
 # this appears on the top navigation bar next to the home button
 
-site_title: Superpage
+site_title: arlimb
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Supercompany
+company_name: 
 # this appears in the footer
 
 github_editme_path: 
