@@ -70,6 +70,8 @@ defaults:
       comments: false
       search: false
       showsidebar: true
+      navbutton: true
+
   -
     scope:
       path: ""
@@ -80,6 +82,7 @@ defaults:
       search: true
       tooltip: true
       showsidebar: true
+      navbutton: true
 
   -
     scope:
@@ -91,6 +94,7 @@ defaults:
       search: true
       sidebar: home_sidebar
       showsidebar: true
+      navbutton: true
 
 # these are defaults used for the frontmatter for these file types
 

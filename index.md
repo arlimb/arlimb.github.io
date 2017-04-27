@@ -5,6 +5,7 @@ tags:
 permalink: index.html
 summary: 
 showsidebar: false
+navbutton: false
 ---
 
 
