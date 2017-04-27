@@ -1,0 +1,30 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: arlimb
+  version: 
+  folders:
+
+  - title: Implementation
+    output: web
+    folderitems:
+
+    - title: Overview
+      url: /implementation/overview.html
+      output: web
+      type: homepage
+
+    - title: Structure
+      url: /implementation/structure.html
+      output: web
+
+    - title: Component1
+      url: /implementation/component1.html
+      output: web
+
+    - title: Component2
+      url: /implementation/component2.html
+      output: web
+
+
